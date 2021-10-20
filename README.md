@@ -8,5 +8,6 @@
 * Laravel Mix
 * Laravel 8.40
 
+`composer install`
 
-`  npm install && npm run dev `
+`npm install && npm run dev `
