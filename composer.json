@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "dennist12/laravel-vue-spa-template",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "authentication template",
+    "keywords": ["framework", "laravel","vuejs"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
