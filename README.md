@@ -7,5 +7,3 @@
 -   Laravel 8
 
 `composer install`
-
-`npm install && npm run dev `
